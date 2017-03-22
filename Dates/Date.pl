@@ -4,6 +4,7 @@
 # Chris Talent
 # 2017-02-14
 #Testing with GitHub
+#Test editing from GitHub webs site (opened in Notepad++ Portable on PC)
 #-----------------------------------------------------------------------------
 use strict;
 use POSIX qw(strftime);
